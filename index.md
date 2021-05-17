@@ -12,7 +12,7 @@ The Notifiable Data Breach (NDB) Scheme, [data breach preparation and response](
 
 The [Privacy Act 1988](https://www.oaic.gov.au/privacy/the-privacy-act/).
 
-The [Information security in general practice](https://www.racgp.org.au/running-a-practice/security/protecting-your-practice-information/information-security-in-general-practice/introduction).
+The security framework from the Royal Australian College of General Practitioners (RACGP) [Information security in general practice](https://www.racgp.org.au/running-a-practice/security/protecting-your-practice-information/information-security-in-general-practice/introduction).
 
 
 ## Assessment Event 1 ##
@@ -36,6 +36,8 @@ What risk are these strategies trying to stop;
 5. Ensuring antivirus software is functioning and up-to-date
 
 The Office of the Australian Information Commissioner (OAIC) also publishes this guide that states are the reasonable steps all entities covered by the Privacy Act 1988 are required to take. See the [Guide to securing personal information](https://www.oaic.gov.au/privacy/guidance-and-advice/guide-to-securing-personal-information) and in particular [Part B — Steps and strategies which may be reasonable to take - ICT security](https://www.oaic.gov.au/privacy/guidance-and-advice/guide-to-securing-personal-information/#ict-security).
+
+Regarding point 3 above, an example of this is this service from CISCO called [OpenDNS](https://www.opendns.com/home-internet-security/).
 
 
 ### Question 3 ###
@@ -75,7 +77,7 @@ This webinar discusses several frameworks (the list on the top of this page) tha
 
 ### Part 2 Question 1 Table 2 ###
 
-The first part of the presented table requires the valuable assets of the orgnaisation are recorded.
+The first part of the presented table requires the valuable assets of the organisation are recorded.
 
 Undertaking an asset audit and creating an asset register is commonplace in most standards. It could be considered a corner stone of security as a device can not be secured if it is unknown to the organisation or the people who are tasked to secure it.
 
@@ -104,10 +106,14 @@ Encryption is covered in the OAIC Guide to securing personal information - [Part
 
 ### Part 2 Question 5 ###
 
+You must advise the organisation about some controls that can be used to help address the cyber security gaps in the BYOD policy, especially regarding mobile phones and tablets. Provide a description of the control and justify why it fits the gap. (50-100 words). Provide links or references.
+
 Although this is covered in some fashion in the Information Security Manual (ISM) [Mobile device management](https://www.cyber.gov.au/acsc/view-all-content/guidance/mobile-device-management) section the Center for Internet Security's (CIS) has released the [CIS Controls™ Mobile Companion Guide](https://www.cisecurity.org/blog/new-release-cis-controls-mobile-companion-guide/) which provides a very detailed and easy to review checklist of controls on page 13 of the guide.
 
 
 ### Part 2 Question 8 ###
+
+If the security policies and solution was not successful, advise the organisation what legislative requirements from Australia they would need to consider. Provide an explanation of what they need to know. (50-100 words). Provide links or references.
 
 This question directly relates to what is mandated in Australaia by the Notifiable Data Breach (NDB) Scheme and the Privacy Act (1988) if an organisation is compromised by a data breach.
 
@@ -125,4 +131,4 @@ There are a few other cases and activities but none that would relate to most sm
 
 Review the Unit FAQ for specific help regarding this question. Click here to download the [ICTICT424 Unit FAQ](https://share.tafensw.edu.au/share/file/a7edc480-a319-49c6-9646-76cbc8c8a5a5/1/ICTICT424%20Unit%20FAQ%20v1.pdf).
 
-
+For futher support please visit the [ICTICT424 Unit Teams channel](https://teams.microsoft.com/l/channel/19%3a85cf17c8878149bd86326f74f42aad00%40thread.tacv2/ICTICT424?groupId=1efa1b80-4221-461b-a35b-ab71d8626e87&tenantId=19537222-55d7-4581-84fb-c2da6e835c74).
