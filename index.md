@@ -12,6 +12,8 @@ The Notifiable Data Breach (NDB) Scheme, [data breach preparation and response](
 
 The [Privacy Act 1988](https://www.oaic.gov.au/privacy/the-privacy-act/).
 
+The [Information security in general practice](https://www.racgp.org.au/running-a-practice/security/protecting-your-practice-information/information-security-in-general-practice/introduction).
+
 
 ## Assessment Event 1 ##
 
