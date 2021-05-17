@@ -4,17 +4,11 @@ This presentation relates to the cybersecurity standards and legislation busines
 
 The standards and legislation covered in this webinar are:
 
-The Australian Cyber Security Centre's (ACSC) Strategies to Mitigate Cyber Security Incidents: 
+The Australian Cyber Security Centre's (ACSC) [Strategies to Mitigate Cyber Security Incidents](https://www.cyber.gov.au/acsc/view-all-content/publications/strategies-mitigate-cyber-security-incidents)
 
-(https://www.cyber.gov.au/acsc/view-all-content/publications/strategies-mitigate-cyber-security-incidents)
+The Notifiable Data Breach (NDB) Scheme, [data breach preparation and response](https://www.oaic.gov.au/privacy/guidance-and-advice/data-breach-preparation-and-response/)
 
-Notifiable Data Breach (NDB) Scheme, data breach preparation and response:
-
-(https://www.oaic.gov.au/privacy/guidance-and-advice/data-breach-preparation-and-response/)
-
-Privacy Act 1988:
-
-(https://www.oaic.gov.au/privacy/the-privacy-act/)
+The [Privacy Act 1988](https://www.oaic.gov.au/privacy/the-privacy-act/)
 
 
 ## Assessment Event 1 ##
