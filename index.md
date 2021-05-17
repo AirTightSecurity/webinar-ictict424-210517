@@ -1,4 +1,4 @@
-# Webinar presentation ICTICT424 17 May 2021 #
+# ICTICT424 Security Standards Webinar 17 May 2021 #
 
 This presentation relates to the cybersecurity standards and legislation businesses would need to follow to be fully compliant and to substantially reduce their risk of a successful cyber attack.
 
@@ -131,4 +131,4 @@ There are a few other cases and activities but none that would relate to most sm
 
 Review the Unit FAQ for specific help regarding this question. Click here to download the [ICTICT424 Unit FAQ](https://share.tafensw.edu.au/share/file/a7edc480-a319-49c6-9646-76cbc8c8a5a5/1/ICTICT424%20Unit%20FAQ%20v1.pdf).
 
-For futher support please visit the [ICTICT424 Unit Teams channel](https://teams.microsoft.com/l/channel/19%3a85cf17c8878149bd86326f74f42aad00%40thread.tacv2/ICTICT424?groupId=1efa1b80-4221-461b-a35b-ab71d8626e87&tenantId=19537222-55d7-4581-84fb-c2da6e835c74).
+For futher support and access to the webinar recording please visit the [ICTICT424 Unit Teams channel](https://teams.microsoft.com/l/channel/19%3a85cf17c8878149bd86326f74f42aad00%40thread.tacv2/ICTICT424?groupId=1efa1b80-4221-461b-a35b-ab71d8626e87&tenantId=19537222-55d7-4581-84fb-c2da6e835c74).
