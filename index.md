@@ -6,22 +6,22 @@ The standards and legislation covered in this webinar are:
 
 The Australian Cyber Security Centre's (ACSC) Strategies to Mitigate Cyber Security Incidents: 
 
-https://www.cyber.gov.au/acsc/view-all-content/publications/strategies-mitigate-cyber-security-incidents
+(https://www.cyber.gov.au/acsc/view-all-content/publications/strategies-mitigate-cyber-security-incidents)
 
 Notifiable Data Breach (NDB) Scheme, data breach preparation and response:
 
-https://www.oaic.gov.au/privacy/guidance-and-advice/data-breach-preparation-and-response/
+(https://www.oaic.gov.au/privacy/guidance-and-advice/data-breach-preparation-and-response/)
 
 Privacy Act 1988:
 
-https://www.oaic.gov.au/privacy/the-privacy-act/
+(https://www.oaic.gov.au/privacy/the-privacy-act/)
 
 
 ## Assessment Event 1 ##
 
 ### Question 1 ###
 
-Describe common threats and risks to the organisation with respect to the use of BYOD. (150-200 words). Provide links or references.
+Describe common threats and risks to the organisation with respect to the use of BYOD. Provide links or references.
 
 This question is easily answered using the Strategies to Mitigate Cyber Security Incidents framework.
 
